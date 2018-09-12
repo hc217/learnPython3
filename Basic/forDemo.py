@@ -21,6 +21,6 @@ for i in range(3):
 
 else:
     print("次数用尽，请重新开始")
-    print("tesg")
-    
+
+
 
